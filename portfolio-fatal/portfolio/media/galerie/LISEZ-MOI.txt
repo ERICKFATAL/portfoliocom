@@ -1,0 +1,4 @@
+Place tes photos ici. Noms attendus (ou change-les dans galerie.html) :
+evenements-01.jpg, evenements-02.jpg, formations-01.jpg, formations-02.jpg,
+prestations-01.jpg, prestations-02.jpg, coulisses-01.jpg, coulisses-02.jpg
+Conseil : largeur 1600 px maximum, format JPG, moins de 400 Ko par photo.
